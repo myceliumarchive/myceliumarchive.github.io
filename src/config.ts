@@ -1,6 +1,6 @@
 // src/config.ts — single entry point for site settings. Everything site-specific lives here; never hardcode in components.
 export const site = {
-  name: 'Vitrine',
+  name: 'Mycelium Archive',
   description: 'A catalogue of objects, plate by plate.',
   url: 'https://myceliumarchive.github.io',
   locale: 'en', // BCP 47, e.g. 'en', 'ko'
